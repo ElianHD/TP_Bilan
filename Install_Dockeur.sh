@@ -11,7 +11,7 @@ curl https://get.docker.com | bash
 apt install docker-compose -y
 systemctl enable --now docker
 systemctl start docker
-apt install containerd.io=1.7.28-1~debian.12~bookworm -y
+apt install containerd.io=1.7.28-1~debian.12~bookworm 
 echo "Terminer "
 
 
