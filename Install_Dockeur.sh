@@ -3,6 +3,7 @@
 set -e
 apt update
 apt upgrade
+apt install git -y
 apt install curl -y
 apt install ca-certificates -y
 curl https://get.docker.com | bash
