@@ -33,7 +33,8 @@ Le fichier `docker-compose.yml` dédié se trouve dans :
 
 ### ▶️ Lancement
 
-`cd wordpress docker compose up -d`
+`cd wordpress`
+`docker compose up -d`
 
 ### 🌐 Accès à WordPress
 
@@ -51,7 +52,8 @@ Le fichier `docker-compose.yml` de Zabbix est situé dans :
 
 ### ▶️ Lancement
 
-`cd zabbix docker compose up -d`
+`cd zabbix`
+`docker compose up -d`
 
 ### 🌐 Accès à l’interface Zabbix
 
