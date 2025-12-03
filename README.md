@@ -10,7 +10,6 @@ Ce dépôt contient plusieurs environnements Docker prêts à l’emploi :
     
 - **Script `install_docker.sh`** : installation automatique de Docker sur la machine
     
- - **Script `install_docker.sh`** : installation automatique de Docker sur la machine
 
 
 ---
